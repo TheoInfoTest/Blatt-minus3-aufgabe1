@@ -1,0 +1,8 @@
+aufgabe.pdf
+aufgabe.tex
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.swp
